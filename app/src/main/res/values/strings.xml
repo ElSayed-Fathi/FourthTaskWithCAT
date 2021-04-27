@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FourthTaskWithCAT</string>
+    <string name="todo">TODO</string>
+    <string name="describ_txt">Describtion Text</string>
+    <string name="title_txt">Title Text</string>
+    <string name="sub_title">Sub Tiltle</string>
+    <string name="main_title">Main Tiltle</string>
+</resources>
